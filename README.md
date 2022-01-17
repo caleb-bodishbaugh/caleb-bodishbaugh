@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Caleb Bodishbaugh, a IT Developer at the University of Virginia's School of Data Science!
+- 👋 Hi, I’m Caleb Bodishbaugh, an IT Developer at the University of Virginia's School of Data Science!
 - 👀 I’m interested in full-stack web development!
 - 🌱 I’m currently learning PHP and Angular
 - 📫 How to reach me cbb3jn@virginia.edu
